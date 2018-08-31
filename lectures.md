@@ -3,7 +3,7 @@
 ### Lecture 01 (06 Sep)
 
 - Course Introduction
-- [Lecture slides](/lectures/lecture-01.html) | [PDF Version](/lectures/pdfs/iems5780-lecture-01.pdf)
+- [Lecture slides](lectures/lecture-01.html) | [PDF Version](lectures/pdfs/iems5780-lecture-01.pdf)
 - References:
     - [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/)
     - [The Python (3.6) Tutorial](https://docs.python.org/3.6/tutorial/)
