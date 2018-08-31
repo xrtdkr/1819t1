@@ -1,4 +1,4 @@
-# IEMS 5780 - Building and Deploying Scalable Machine Learning Services<br/>IERG 4080 - Building Scalable Internet-based Services</br>(2018-2019 Term 1)
+# IEMS 5780 / IERG 4080<br/>Building and Deploying Scalable Machine Learning Services<br/>(2018-2019 Term 1)
 
 ## Course Description
 
@@ -28,8 +28,15 @@ This course will introduce basic concepts in computer networking and network pro
 
 ### Assessment Schemes
 
+#### For IERG 4080
 - **10%** - Attendance
-- **60%** - Programming Assignments & Mini Project
+- **60%** - Programming Assignments
+- **30%** - Final Examination (Thursday, 20th December)
+
+#### For IEMS 5780
+- **10%** - Attendance
+- **45%** - Programming Assignments
+- **15%** - Course Mini Project
 - **30%** - Final Examination (Thursday, 20th December)
 
 ---
@@ -81,27 +88,28 @@ This course will introduce basic concepts in computer networking and network pro
     - Basic Pyton Programming
     - Due Date: 23:59, 21 Sep (Fri)
     - Instructions
-    - **4%** of final grade
 - **Assignment 1**
     - Text Classification
     - Due Date: 23:59, 19 Oct (Fri)
     - Instructions
-    - **14%** of final grade
 - **Assignment 2**
     - Socket and Concurrent Programming
     - Due Date: 23:59, 09 Nov (Fri)
     - Instructions
-    - **14%** of final grade
 - **Assignment 3**
     - Web Application + MongoDB
     - Due Date: 23:59, 30 Nov (Fri)
     - Instructions
-    - **14%** of final grade
 - **Assignment 4**
     - Using Kafka and Redis
     - Due Date: 23:59, 21 Dec (Fri)
     - Instructions
-    - **14%** of final grade
+
+---
+
+## Course Mini Project (For IEMS5780 Students)
+
+TBC
 
 ---
 
