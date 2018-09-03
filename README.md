@@ -43,6 +43,7 @@ This course will introduce basic concepts in computer networking and network pro
 
 ## Course Materials
 
+- [Slack Group](https://iems5780-1819t1.slack.com/)
 - [Lectures](lectures.md)
 - [Tutorials](tutorials.md)
 - [Assignments](assignments.md)
