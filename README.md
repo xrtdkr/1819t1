@@ -24,7 +24,7 @@ This course will introduce basic concepts in computer networking and network pro
 
 ### Teaching Assistant (IEMS 5780)
 
-- **Teaching Assistant:** TBC
+- **Teaching Assistant:** XU Xudong
 
 ### Assessment Schemes
 
@@ -59,6 +59,7 @@ This course will introduce basic concepts in computer networking and network pro
 
 ### Machine Learning
 - [scikit-learn User Guide](http://scikit-learn.org/stable/user_guide.html)
+- [Machine Learning Yearning](http://www.mlyearning.org/) by Andrew Ng
 
 ### Scalability
 - Guide to Reliable Distributed Systems: Building High-Assurance Applications and Cloud-Hosted Services (Kenneth Birman, 2012)

@@ -11,7 +11,11 @@
 
 ### Lecture 02 (13 Sep)
 
-- Machine Learning
+- Introduction to Machine Learning
+- [Lecture slides](lectures/lecture-02.html), [PDF Version](lectures/pdfs/lecture-02.pdf)
+- References:
+    - [scikit-learn Tutorials](http://scikit-learn.org/stable/tutorial/index.html)
+    - [Machine Learning Yearning](http://www.mlyearning.org/) by Andrew Ng
 
 
 ### Lecture 03 (20 Sep)
